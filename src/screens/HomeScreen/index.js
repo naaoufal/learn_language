@@ -4,6 +4,7 @@ import NavBar from "../../components/NavBar";
 import Carousel from "../../components/Carousel";
 import Courses from "../../components/Courses";
 import ResponsiveBar from "../../components/ResponsiveBar";
+import Insctructors from "../../components/Instructors";
 
 const HomeScreen = () => {
     return (
@@ -16,6 +17,7 @@ const HomeScreen = () => {
             </header>
             <Carousel />
             <Courses />
+            <Insctructors />
         </div>
     );
 };
