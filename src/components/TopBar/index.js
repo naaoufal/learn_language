@@ -16,11 +16,7 @@ const TopBar = () => {
                                             <li class="hassubs">
                                             <a href="#">English<i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                             <ul>
-                                                <li><a href="#">Ukrainian</a></li>
-                                                <li><a href="#">Japanese</a></li>
-                                                <li><a href="#">Lithuanian</a></li>
-                                                <li><a href="#">Swedish</a></li>
-                                                <li><a href="#">Italian</a></li>
+                                                <li><a href="#">Arabe</a></li>
                                             </ul>
                                             </li>
                                         </ul>
