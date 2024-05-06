@@ -20,16 +20,16 @@ const Insctructors = () => {
                             <div class="instructor_image_container">
                                 <div class="instructor_image"><img src="images/ins-1.jpg" alt="" /></div>
                             </div>
-                            <div class="instructor_name"><a href="instructors.html">Naoufal Parker</a></div>
+                            <div class="instructor_name">Naoufal Parker</div>
                             <div class="instructor_title">Teacher</div>
                             <div class="instructor_text">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce enim nulla, mollis eu metus in, sagittis fringilla tortor.</p>
                             </div>
                             <div class="instructor_social">
                                 <ul>
-                                    <li><a ><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a ><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                    <li><a ><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                    <li><i class="fa fa-facebook" aria-hidden="true"></i></li>
+                                    <li><i class="fa fa-instagram" aria-hidden="true"></i></li>
+                                    <li><i class="fa fa-twitter" aria-hidden="true"></i></li>
                                 </ul>
                             </div>
                         </div>
@@ -40,16 +40,16 @@ const Insctructors = () => {
                             <div class="instructor_image_container">
                                 <div class="instructor_image"><img src="images/ins-1.jpg" alt="" /></div>
                             </div>
-                            <div class="instructor_name"><a href="instructors.html">Naoufal Parker</a></div>
+                            <div class="instructor_name">Naoufal Parker</div>
                             <div class="instructor_title">Teacher</div>
                             <div class="instructor_text">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce enim nulla, mollis eu metus in, sagittis fringilla tortor.</p>
                             </div>
                             <div class="instructor_social">
                                 <ul>
-                                    <li><a ><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a ><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                    <li><a ><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                    <li><i class="fa fa-facebook" aria-hidden="true"></i></li>
+                                    <li><i class="fa fa-instagram" aria-hidden="true"></i></li>
+                                    <li><i class="fa fa-twitter" aria-hidden="true"></i></li>
                                 </ul>
                             </div>
                         </div>
@@ -60,16 +60,16 @@ const Insctructors = () => {
                             <div class="instructor_image_container">
                                 <div class="instructor_image"><img src="images/ins-1.jpg" alt="" /></div>
                             </div>
-                            <div class="instructor_name"><a href="instructors.html">Naoufal Parker</a></div>
+                            <div class="instructor_name">Naoufal Parker</div>
                             <div class="instructor_title">Teacher</div>
                             <div class="instructor_text">
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce enim nulla, mollis eu metus in, sagittis fringilla tortor.</p>
                             </div>
                             <div class="instructor_social">
                                 <ul>
-                                    <li><a ><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                    <li><a ><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                    <li><a ><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                    <li><i class="fa fa-facebook" aria-hidden="true"></i></li>
+                                    <li><i class="fa fa-instagram" aria-hidden="true"></i></li>
+                                    <li><i class="fa fa-twitter" aria-hidden="true"></i></li>
                                 </ul>
                             </div>
                         </div>

@@ -18,7 +18,7 @@ const EventCard = () => {
 							<div class="event_month">aug</div>
 						</div>
 						<div class="event_body d-flex flex-row align-items-center justify-content-start">
-							<div class="event_title"><a >Networking Day</a></div>
+							<div class="event_title">Networking Day</div>
 							<div class="event_tag ml-auto">Free</div>
 						</div>
 					</div>
@@ -32,7 +32,7 @@ const EventCard = () => {
 							<div class="event_month">aug</div>
 						</div>
 						<div class="event_body d-flex flex-row align-items-center justify-content-start">
-							<div class="event_title"><a >Networking Day</a></div>
+							<div class="event_title">Networking Day</div>
 							<div class="event_tag ml-auto">Free</div>
 						</div>
 					</div>
@@ -46,7 +46,7 @@ const EventCard = () => {
 							<div class="event_month">aug</div>
 						</div>
 						<div class="event_body d-flex flex-row align-items-center justify-content-start">
-							<div class="event_title"><a >Networking Day</a></div>
+							<div class="event_title">Networking Day</div>
 							<div class="event_tag ml-auto">Free</div>
 						</div>
 					</div>

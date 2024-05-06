@@ -59,11 +59,11 @@ const Courses = () => {
                             <div class="course">
                                 <div class="course_image"><img src={item?.img} alt="" /></div>
                                 <div class="course_body">
-                                    <div class="course_title"><a>Vocabulary</a></div>
+                                    <div class="course_title">Vocabulary</div>
                                     <div class="course_info">
                                         <ul>
-                                            <li><a >Sarah Parker</a></li>
-                                            <li><a >English</a></li>
+                                            <li>Sarah Parker</li>
+                                            <li>English</li>
                                         </ul>
                                     </div>
                                     <div class="course_text">
@@ -73,7 +73,7 @@ const Courses = () => {
                                 <div class="course_footer d-flex flex-row align-items-center justify-content-start">
                                     <div class="course_students"><i class="fa fa-user" aria-hidden="true"></i><span>10</span></div>
                                     <div class="course_rating ml-auto"><i class="fa fa-star" aria-hidden="true"></i><span>4,5</span></div>
-                                    <div class="course_mark course_free trans_200"><a >Free</a></div>
+                                    <div class="course_mark course_free trans_200">Free</div>
                                 </div>
                             </div>
                         </div>

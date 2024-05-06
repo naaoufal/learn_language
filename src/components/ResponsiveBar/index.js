@@ -20,12 +20,12 @@ const ResponsiveBar = () => {
             </div>
             <nav class="menu_nav">
                 <ul class="menu_mm">
-                    <li class="menu_mm"><a href="index.html">Home</a></li>
-                    <li class="menu_mm"><a href="courses.html">Courses</a></li>
-                    <li class="menu_mm"><a href="instructors.html">Instructors</a></li>
-                    <li class="menu_mm"><a >Events</a></li>
-                    <li class="menu_mm"><a href="blog.html">Blog</a></li>
-                    <li class="menu_mm"><a href="contact.html">Contact</a></li>
+                    <li class="menu_mm">Home</li>
+                    <li class="menu_mm">Courses</li>
+                    <li class="menu_mm">Instructors</li>
+                    <li class="menu_mm">Events</li>
+                    <li class="menu_mm">Blog</li>
+                    <li class="menu_mm">Contact</li>
                 </ul>
             </nav>
             <div class="menu_extra">
@@ -33,9 +33,9 @@ const ResponsiveBar = () => {
                 <div class="menu_social">
                     <span class="menu_title">follow us</span>
                     <ul>
-                        <li><a ><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                        <li><a ><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                        <li><a ><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                        <li><i class="fa fa-facebook" aria-hidden="true"></i></li>
+                        <li><i class="fa fa-instagram" aria-hidden="true"></i></li>
+                        <li><i class="fa fa-twitter" aria-hidden="true"></i></li>
                     </ul>
                 </div>
             </div>

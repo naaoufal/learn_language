@@ -8,18 +8,18 @@ const NavBar = () => {
                     <div class="col">
                         <div class="header_content d-flex flex-row align-items-center justify-content-start">
                             <div class="logo_container mr-auto">
-                                <a >
+                                
                                     <div class="logo_text">EasyDarija</div>
-                                </a>
+                                
                             </div>
                             <nav class="main_nav_contaner">
                                 <ul class="main_nav">
-                                    <li class="active"><a >Home</a></li>
-                                    <li><a href="/courses">Courses</a></li>
-                                    <li><a >Instructors</a></li>
-                                    <li><a >Events</a></li>
-                                    <li><a >Blog</a></li>
-                                    <li><a >Contact</a></li>
+                                    <li class="active">Home</li>
+                                    <li>Courses</li>
+                                    <li>Instructors</li>
+                                    <li>Events</li>
+                                    <li>Blog</li>
+                                    <li>Contact</li>
                                 </ul>
                             </nav>
                             <div class="header_content_right ml-auto text-right">
@@ -33,7 +33,7 @@ const NavBar = () => {
                                         </form>
                                     </div>
                                 </div>
-                                <div class="user"><a ><i class="fa fa-user" aria-hidden="true"></i></a></div>
+                                <div class="user"><i class="fa fa-user" aria-hidden="true"></i></div>
                                 <div class="hamburger menu_mm">
                                     <i class="fa fa-bars menu_mm" aria-hidden="true"></i>
                                 </div>
