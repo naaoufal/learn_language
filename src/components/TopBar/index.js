@@ -14,9 +14,9 @@ const TopBar = () => {
                                     <span class="top_bar_title">site language:</span>
                                         <ul class="lang_list">
                                             <li class="hassubs">
-                                            <a href="#">English<i class="fa fa-angle-down" aria-hidden="true"></i></a>
+                                            <a >English<i class="fa fa-angle-down" aria-hidden="true"></i></a>
                                             <ul>
-                                                <li><a href="#">Arabe</a></li>
+                                                <li><a >Arabe</a></li>
                                             </ul>
                                             </li>
                                         </ul>
@@ -24,9 +24,9 @@ const TopBar = () => {
                                     <div class="top_bar_social">
                                         <span class="top_bar_title social_title">follow us</span>
                                         <ul>
-                                            <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-                                            <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-                                            <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                                            <li><a ><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                                            <li><a ><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                                            <li><a ><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
                                         </ul>
                                     </div>
                                 </div>

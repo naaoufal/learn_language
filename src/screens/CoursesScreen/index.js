@@ -41,7 +41,7 @@ const CoursesScreen = () => {
 							<div class="course_info">
 								<ul>
 									<li><a href="instructors.html">Sarah Parker</a></li>
-									<li><a href="#">English</a></li>
+									<li><a >English</a></li>
 								</ul>
 							</div>
 							<div class="course_text">
@@ -51,7 +51,7 @@ const CoursesScreen = () => {
 						<div class="course_footer d-flex flex-row align-items-center justify-content-start">
 							<div class="course_students"><i class="fa fa-user" aria-hidden="true"></i><span>10</span></div>
 							<div class="course_rating ml-auto"><i class="fa fa-star" aria-hidden="true"></i><span>4,5</span></div>
-							<div class="course_mark trans_200"><a href="#">$45</a></div>
+							<div class="course_mark trans_200"><a >$45</a></div>
 						</div>
 					</div>
 				</div>
@@ -64,7 +64,7 @@ const CoursesScreen = () => {
 							<div class="course_info">
 								<ul>
 									<li><a href="instructors.html">Sarah Parker</a></li>
-									<li><a href="#">English</a></li>
+									<li><a >English</a></li>
 								</ul>
 							</div>
 							<div class="course_text">
@@ -74,7 +74,7 @@ const CoursesScreen = () => {
 						<div class="course_footer d-flex flex-row align-items-center justify-content-start">
 							<div class="course_students"><i class="fa fa-user" aria-hidden="true"></i><span>10</span></div>
 							<div class="course_rating ml-auto"><i class="fa fa-star" aria-hidden="true"></i><span>4,5</span></div>
-							<div class="course_mark course_free trans_200"><a href="#">Free</a></div>
+							<div class="course_mark course_free trans_200"><a >Free</a></div>
 						</div>
 					</div>
 				</div>
@@ -87,7 +87,7 @@ const CoursesScreen = () => {
 							<div class="course_info">
 								<ul>
 									<li><a href="instructors.html">Sarah Parker</a></li>
-									<li><a href="#">Spanish</a></li>
+									<li><a >Spanish</a></li>
 								</ul>
 							</div>
 							<div class="course_text">
@@ -97,7 +97,7 @@ const CoursesScreen = () => {
 						<div class="course_footer d-flex flex-row align-items-center justify-content-start">
 							<div class="course_students"><i class="fa fa-user" aria-hidden="true"></i><span>10</span></div>
 							<div class="course_rating ml-auto"><i class="fa fa-star" aria-hidden="true"></i><span>4,5</span></div>
-							<div class="course_mark course_free trans_200"><a href="#">Free</a></div>
+							<div class="course_mark course_free trans_200"><a >Free</a></div>
 						</div>
 					</div>
 				</div>
@@ -110,7 +110,7 @@ const CoursesScreen = () => {
 							<div class="course_info">
 								<ul>
 									<li><a href="instructors.html">Sarah Parker</a></li>
-									<li><a href="#">English</a></li>
+									<li><a >English</a></li>
 								</ul>
 							</div>
 							<div class="course_text">
@@ -120,7 +120,7 @@ const CoursesScreen = () => {
 						<div class="course_footer d-flex flex-row align-items-center justify-content-start">
 							<div class="course_students"><i class="fa fa-user" aria-hidden="true"></i><span>10</span></div>
 							<div class="course_rating ml-auto"><i class="fa fa-star" aria-hidden="true"></i><span>4,5</span></div>
-							<div class="course_mark trans_200"><a href="#">$45</a></div>
+							<div class="course_mark trans_200"><a >$45</a></div>
 						</div>
 					</div>
 				</div>

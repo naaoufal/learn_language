@@ -7,7 +7,7 @@ const Footer = () => {
 
 					<div class="col-lg-3 footer_col">
 						<div class="newsletter_container d-flex flex-column align-items-start justify-content-end">
-							<div class="footer_logo mb-auto"><a href="#">EasyDarija</a></div>
+							<div class="footer_logo mb-auto"><a >EasyDarija</a></div>
 							<div class="footer_title">Subscribe</div>
 							<form action="#" id="newsletter_form" class="newsletter_form">
 								<input type="email" class="newsletter_input" placeholder="Email" required="required" />
@@ -20,13 +20,13 @@ const Footer = () => {
 						<div>
 							<div class="footer_title">About Us</div>
 							<ul class="footer_list">
-								<li><a href="#">Courses</a></li>
-								<li><a href="#">Team</a></li>
-								<li><a href="#">Brand Guidelines</a></li>
-								<li><a href="#">Jobs</a></li>
-								<li><a href="#">Advertise with us</a></li>
-								<li><a href="#">Press</a></li>
-								<li><a href="#">Contact us</a></li>
+								<li><a >Courses</a></li>
+								<li><a >Team</a></li>
+								<li><a >Brand Guidelines</a></li>
+								<li><a >Jobs</a></li>
+								<li><a >Advertise with us</a></li>
+								<li><a >Press</a></li>
+								<li><a >Contact us</a></li>
 							</ul>
 						</div>
 					</div>
@@ -34,12 +34,12 @@ const Footer = () => {
 					<div class="col-lg-2 footer_col">
 						<div class="footer_title">Help & Support</div>
 						<ul class="footer_list">
-							<li><a href="#">Discussions</a></li>
-							<li><a href="#">Troubleshooting</a></li>
-							<li><a href="#">Duolingo FAQs</a></li>
-							<li><a href="#">Schools FAQs</a></li>
-							<li><a href="#">Duolingo English Test FAQs</a></li>
-							<li><a href="#">Status</a></li>
+							<li><a >Discussions</a></li>
+							<li><a >Troubleshooting</a></li>
+							<li><a >Duolingo FAQs</a></li>
+							<li><a >Schools FAQs</a></li>
+							<li><a >Duolingo English Test FAQs</a></li>
+							<li><a >Status</a></li>
 						</ul>
 					</div>
 
@@ -47,10 +47,10 @@ const Footer = () => {
 						<div>
 							<div class="footer_title">Privacy & Terms</div>
 							<ul class="footer_list">
-								<li><a href="#">Community Guidelines</a></li>
-								<li><a href="#">Terms</a></li>
-								<li><a href="#">Brand Guidelines</a></li>
-								<li><a href="#">Privacy</a></li>
+								<li><a >Community Guidelines</a></li>
+								<li><a >Terms</a></li>
+								<li><a >Brand Guidelines</a></li>
+								<li><a >Privacy</a></li>
 							</ul>
 						</div>
 					</div>
@@ -68,9 +68,9 @@ const Footer = () => {
 								<div class="footer_social">
 									<span class="cr_social_title">follow us</span>
 									<ul>
-										<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-										<li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-										<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+										<li><a ><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+										<li><a ><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+										<li><a ><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
 									</ul>
 								</div>
 							</div>
