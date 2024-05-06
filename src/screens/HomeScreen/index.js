@@ -5,19 +5,16 @@ import Carousel from "../../components/Carousel";
 import Courses from "../../components/Courses";
 import ResponsiveBar from "../../components/ResponsiveBar";
 import Insctructors from "../../components/Instructors";
+import Footer from "../../components/Footer";
+import EventCard from "../../components/EventCard";
 
 const HomeScreen = () => {
     return (
         <div class="super_container">
-            <header class="header">
-                <TopBar />
-                <NavBar />
-                {/* responsive menu */}
-                <ResponsiveBar />
-            </header>
             <Carousel />
             <Courses />
             <Insctructors />
+            <EventCard />
         </div>
     );
 };

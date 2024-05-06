@@ -3,9 +3,11 @@ import ImageCover from '../../assets/images/index_background.jpg';
 
 const Carousel = () => {
     return (
-        <div class="home">
+        <div class="home" style={{
+			height: 440,
+		}}>
 		<div class="home_background" style={{
-            backgroundImage: `url(${ImageCover})`
+            backgroundImage: `url(${ImageCover})`,
         }}></div>
 		<div class="home_content">
 			<div class="container">
