@@ -59,7 +59,7 @@ const Courses = () => {
                             <div class="course">
                                 <div class="course_image"><img src={item?.img} alt="" /></div>
                                 <div class="course_body">
-                                    <div class="course_title"><a ="course.html">Vocabulary</a></div>
+                                    <div class="course_title"><a>Vocabulary</a></div>
                                     <div class="course_info">
                                         <ul>
                                             <li><a >Sarah Parker</a></li>
