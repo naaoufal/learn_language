@@ -14,12 +14,12 @@ const NavBar = () => {
                             </div>
                             <nav class="main_nav_contaner">
                                 <ul class="main_nav">
-                                    <li class="active">Home</li>
-                                    <li>Courses</li>
-                                    <li>Instructors</li>
-                                    <li>Events</li>
-                                    <li>Blog</li>
-                                    <li>Contact</li>
+                                    <li class="active"><a href="#">Home</a></li>
+                                    <li><a href="#">Courses</a></li>
+                                    <li><a href="#">Instructors</a></li>
+                                    <li><a href="#">Events</a></li>
+                                    <li><a href="#">Blog</a></li>
+                                    <li><a href="#">Contact</a></li>
                                 </ul>
                             </nav>
                             <div class="header_content_right ml-auto text-right">

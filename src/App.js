@@ -22,7 +22,6 @@ function App() {
       <BrowserRouter>
           <Routes>
             <Route path="/" Component={HomeScreen} /> {/* 👈 Renders at /app/ */}
-            {/* tested pages for google analytics */}
             {/* <Route path="/comment" Component={CommentScreen} />
             <Route path="/product" Component={ProductScreen} /> */}
             <Route path="/courses" Component={CoursesScreen} />

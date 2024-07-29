@@ -24,10 +24,10 @@ const TopBar = () => {
                                     <div class="top_bar_social">
                                         <span class="top_bar_title social_title">follow us</span>
                                         <ul>
-                                            <li><i class="fa fa-facebook" aria-hidden="true"></i></li>
-                                            <li><i class="fa fa-instagram" aria-hidden="true"></i></li>
-                                            <li><i class="fa fa-twitter" aria-hidden="true"></i></li>
-                                        </ul>
+											<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+											<li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+											<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+										</ul>
                                     </div>
                                 </div>
                             </div>

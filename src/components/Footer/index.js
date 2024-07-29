@@ -68,9 +68,9 @@ const Footer = () => {
 								<div class="footer_social">
 									<span class="cr_social_title">follow us</span>
 									<ul>
-										<li><i class="fa fa-facebook" aria-hidden="true"></i></li>
-										<li><i class="fa fa-instagram" aria-hidden="true"></i></li>
-										<li><i class="fa fa-twitter" aria-hidden="true"></i></li>
+										<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+										<li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+										<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
 									</ul>
 								</div>
 							</div>

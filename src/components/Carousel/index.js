@@ -14,7 +14,7 @@ const Carousel = () => {
 				<div class="row">
 					<div class="col text-center">
 						<h1 class="home_title">Learn Languages Easily</h1>
-						<div class="home_button trans_200">get started</div>
+						<div class="home_button trans_200"><a href="#">get started</a></div>
 					</div>
 				</div>
 			</div>
